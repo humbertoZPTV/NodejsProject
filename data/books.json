@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "isbn": "978-84-376-0494-7",
+      "reviews": {}
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "isbn": "978-0-452-28423-4",
+      "reviews": {}
+    },
+    {
+      "title": "Harry Potter y la piedra filosofal",
+      "author": "J.K. Rowling",
+      "isbn": "978-84-9838-189-9",
+      "reviews": {}
+    },
+    {
+      "title": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "isbn": "978-84-376-0128-1",
+      "reviews": {}
+    },
+    {
+      "title": "El hobbit",
+      "author": "J.R.R. Tolkien",
+      "isbn": "978-84-450-7161-9",
+      "reviews": {}
+    },
+    {
+      "title": "Matar un ruiseñor",
+      "author": "Harper Lee",
+      "isbn": "978-84-663-2173-7",
+      "reviews": {}
+    },
+    {
+      "title": "Rayuela",
+      "author": "Julio Cortázar",
+      "isbn": "978-84-204-2324-1",
+      "reviews": {}
+    },
+    {
+      "title": "El principito",
+      "author": "Antoine de Saint-Exupéry",
+      "isbn": "978-84-96500-68-7",
+      "reviews": {}
+    }
+  ]
